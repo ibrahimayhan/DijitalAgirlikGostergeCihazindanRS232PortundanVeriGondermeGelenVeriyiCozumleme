@@ -1,4 +1,4 @@
-1//     SerialPortKBS            =   System.IO.Ports.SerialPort İle Toolbox Üzerinden Dahil Edilen SerialPort Nesnesi
+//     SerialPortKBS            =   System.IO.Ports.SerialPort İle Toolbox Üzerinden Dahil Edilen SerialPort Nesnesi
 //     Önemli Bilgilendirme     =   Dijital Ağırlık Göstergesi Cihazınız Üzerinde Veri Modu Sor / Al Şeklinde Olması Gerekmektedir,
 //                                  Cihazlar Varsayılan Olarak Seri Veri Gönderme Modundadır
 
